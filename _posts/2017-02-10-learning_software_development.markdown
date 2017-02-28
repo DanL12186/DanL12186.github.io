@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Software Development."
-date:   2017-02-10 15:38:16 +0000
+date:   2017-02-10 10:38:17 -0500
 ---
 
 
