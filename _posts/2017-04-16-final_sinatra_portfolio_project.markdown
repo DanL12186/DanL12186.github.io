@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Final Sinatra Portfolio Project"
-date:   2017-04-16 04:20:57 +0000
+date:   2017-04-16 00:20:58 -0400
 ---
 
 
@@ -15,6 +15,6 @@ My first reaction to the lab was actually that it didn't really seem to be very 
 
 I found tux very useful for this project. It let me see how some of my associations were working, and I was able to determine that deleting a book didn't automatically delete the characters that belonged to it, so while this didn't affect the web app itself, it did leave my database with a bunch of orphaned children from testing creation/deletion. I was then able to pretty easily figure out how to get rid of both. 
 
-I will confess to not especially looking forward to having to tack on the error messages to my code (it's not really very apparent how it works, and I don't really feel like just copying and pasting, so it's going to be some time spent in pry and purposely generating all the same errors I've already tested), but I'm pretty confident it won't take too long once I'm not half-asleep and burned out from staring at theh same project all day.
+I will confess to not especially looking forward to having to tack on the error messages to my code (it's not really very apparent how it works, and I don't really feel like just copying and pasting, so it's going to be some time spent in pry and purposely generating all the same errors I've already tested), but I'm pretty confident it won't take too long once I'm not half-asleep and burned out from staring at the same project all day.
 
 Still though, all in all, this was a pretty good experience. I'm looking forward to Rails.
