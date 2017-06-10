@@ -19,7 +19,7 @@ I appreciate what you can do. I get that you're incredibly powerful, that you ar
 
 I suppose it's not entirely your fault. *You* didn't write yourself; Brenden Eich did, and he did so in the span of ten days while working for Netscape. You've certainly been improved a great deal, and ECMA has helped a lot. But you still feel, in many ways, as though you're a medley of a half dozen different languages, with a bunch of different, heterogeneous and out-of-place extended functionality tacked on (I'm looking at you, Handlebars/Mustache). 
 
-And, truth be told, it isn't really even *you* we use anymore; it's jQuery, as far as I can tell. (Granted, jQuery comprises JavaScript.
+And, truth be told, it isn't really even *you* we use anymore; it's jQuery, as far as I can tell. (Granted, jQuery comprises JavaScript.)
 
 I've read a number of opinions that say anyone who "hates" JavaScript does so out of a simple lack of familiarity, or outright ignorance and incompetence. And they're probably largely right.
 
