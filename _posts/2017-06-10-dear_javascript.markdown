@@ -21,7 +21,7 @@ I've read a number of opinions that say anyone who "hates" JavaScript does so ou
 
 But I still can't help feel that we could do a lot better. 
 
-Semi-joking aside, Javascript has proved to be horrendously difficult for me thus far. (Or at least the "advanced JS" and onwards has.) My first moment of real worry was when I found myself having spent hours struggling with a simple reduce/map function-- a function which, using map and reduce, I was able to write in Ruby in the amount of time it took me to type the code. Even after doing it Ruby-- something like `arr = [1,3,4,6,25,88,22,1,8,7, etc... ];  arr.map { |num| num ** 3 }.reduce(:+)`, I still couldn't get it to work in JS. I ended up having to ask for help.  
+Semi-joking aside, Javascript has proved to be horrendously difficult for me thus far. (Or at least the "advanced JS" and onwards has.) My first moment of real worry was when I found myself having spent hours struggling with a simple reduce/map function-- a function which, using map and reduce, I was able to write in Ruby in the amount of time it took me to type the code. Even after doing it Ruby-- something like `arr = [1,3,4,6,25,88,22,1,8,7, etc... ];  arr.map { |num| num ** 3 }.reduce(:+)`,  I still couldn't get it to work in JS. I ended up having to ask for help.  
 
 I initially found myself staring at JS code that meant absolutely nothing to me; I can remember looking at the first code I'd ever seen-- written in C++ --  for the first time, and being able to make better sense of it. And I'd already written some basic JS code and worked with the DOM before on Flatiron's free intro course. 
 
