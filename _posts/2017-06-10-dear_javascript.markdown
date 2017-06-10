@@ -15,7 +15,7 @@ As far as I'm concerned, you really *do* generate [millions of pictures of Guy F
 
 You, not the Black Hand's assassination of the Archduke Ferdinand, were responsible for the first World War.  I'm pretty sure you killed Kennedy.
 
-I appreciate what you can do. I get that you're incredibly powerful, you are, for a web-based language, very fast, and, as far as I can tell, irreplaceable with extant languages (attempts to create languages that simply compile to JS, such as CoffeeScript notwithstanding). 
+I appreciate what you can do. I get that you're incredibly powerful, that you are, for a web-based language, very fast, and, as far as I can tell, irreplaceable with extant languages (attempts to create languages that simply compile to JS, such as CoffeeScript notwithstanding). 
 
 I suppose it's not entirely your fault. *You* didn't write yourself; Brenden Eich did, and he did so in the span of ten days while working for Netscape. You've certainly been improved a great deal, and ECMA has helped a lot. But you still feel, in many ways, as though you're a medley of a half dozen different languages, with a bunch of different, heterogeneous and out-of-place extended functionality tacked on (I'm looking at you, Handlebars/Mustache). 
 
