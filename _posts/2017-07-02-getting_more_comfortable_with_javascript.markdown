@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Getting (More) Comfortable with JavaScript"
-date:   2017-07-02 16:56:48 +0000
+date:   2017-07-02 12:56:49 -0400
 ---
 
 
-JavaScript has been rough. The biggest hurdle was probably the syntax; after having used Ruby for so long, looking at JavaScript again was a bit like reading over some all-but-forgotten language from some past life. The second-biggest hurdle might be in the error-handling... there sort of isn't any. 
+JavaScript has been rough. The biggest hurdle was probably the syntax; after having used Ruby for so long, looking at JavaScript again was a bit like reading over some all-but-forgotten language from some past life (in ancient Egypt, perhaps). The second-biggest hurdle might be in the error-handling... there sort of isn't any. 
 
 I mean, okay. There is, and sometimes it's quite helpful; "unexpected ')', line:42:10 posts.js". But other times, there's sort of nothing. You're missing a curly-brace, or you have some syntax error, or you accidentally typed something twice or not at all, and you get thrown an error that in no way leads you towards what's actually wrong, and you spend 20 minutes trying to fix something that isn't actually broken while the actual culprit idly lazes around, wondering when you'll eventually find it out. Or, worse, things fail silently. 
 
