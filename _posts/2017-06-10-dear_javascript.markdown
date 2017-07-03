@@ -7,7 +7,7 @@ date:   2017-06-10 00:57:53 -0400
 
 Without you, we would not have the web as we know it. The web would be lifeless, unmoving, static and slow. So much of what we take for granted simply wouldn't be possible. 
 
-JavaScript, you are the absolute worst. Your draconian syntax, unforgiving code formatting requirements and hideous appearance all contribute to making you uniquely hateful. 
+JavaScript, you are the absolute worst. Your draconian syntax, unforgiving code formatting requirements, silent errors and hideous appearance all contribute to making you uniquely hateful. 
 
 You have an absurd number of libraries, modules and frameworks, all trying to clean up your mess and all adding to the clutter. Where you go, chaos and devastation follow. 
 
