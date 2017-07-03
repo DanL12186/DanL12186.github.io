@@ -5,9 +5,9 @@ date:   2017-06-10 00:57:53 -0400
 ---
 
 
-Without you, we would not have the web as we know it. The web would be lifeless, unmoving and static. So much of what we take for granted simply wouldn't be possible. 
+Without you, we would not have the web as we know it. The web would be lifeless, unmoving, static and slow. So much of what we take for granted simply wouldn't be possible. 
 
-JavaScript, you are the absolute worst. Your draconian syntax, lightweight debugger, unforgiving code formatting requirements and hideous appearance all contribute to making you uniquely hateful. 
+JavaScript, you are the absolute worst. Your draconian syntax, unforgiving code formatting requirements and hideous appearance all contribute to making you uniquely hateful. 
 
 You have an absurd number of libraries, modules and frameworks, all trying to clean up your mess and all adding to the clutter. Where you go, chaos and devastation follow. 
 
@@ -27,7 +27,7 @@ But I still can't help feel that we could do a lot better.
 
 Dramatic semi-joking aside, Javascript has proved to be horrendously difficult for me thus far. (Or at least the "advanced JS" and onwards has.) My first moment of real worry was when I found myself having spent hours struggling with a simple reduce/map function-- a function which, using map and reduce, I was able to write in Ruby in the amount of time it took me to type the code. Even after doing it Ruby-- something like `arr = [1,3,4,6,25,88,22,1,8,7, etc... ];  arr.map { |num| num ** 3 }.reduce(:+)`,  I still couldn't get it to work in JS. I ended up having to ask for help.  
 
-I initially found myself staring at JS code that meant absolutely nothing to me; I can remember looking at the first code I'd ever seen-- written in C++ --  for the first time, and being able to make better sense of it. And I'd already written some basic JS code and worked with the DOM before on Flatiron's free intro course. 
+I initially found myself staring at JS code that meant absolutely nothing to me... and I'd already written some basic JS code and worked with the DOM before on Flatiron's free intro course.  I remember looking at the first code I'd ever seen-- written in C++ --  for the first time, and being able to make better sense of it. 
 
 Things are slowly getting better, although the cirriculum is also getting harder. I no longer have too much trouble *reading* JavaScript, although *writing* it is another matter entirely. 
 
